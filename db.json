@@ -1,0 +1,11 @@
+{
+    "signals": [
+      { "id": 1, "title": "Olá", "author": "Paulo" },
+      { "id": 1, "title": "Bom dia", "author": "José" },
+      { "id": 1, "title": "Tudo bem?", "author": "Evaristo" }
+    ],
+    "comments": [
+      { "id": 1, "body": "commentário", "signalsId": 1 }
+    ],
+    "profile": { "name": "Professor" }
+  }
